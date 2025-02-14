@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+DISTS_pytorch/DISTS_pt.py
+DISTS_pytorch/__init__.py
+DISTS_pytorch/weights.pt
+DISTS_pytorch.egg-info/PKG-INFO
+DISTS_pytorch.egg-info/SOURCES.txt
+DISTS_pytorch.egg-info/dependency_links.txt
+DISTS_pytorch.egg-info/requires.txt
+DISTS_pytorch.egg-info/top_level.txt
